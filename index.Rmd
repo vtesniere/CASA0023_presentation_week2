@@ -92,3 +92,20 @@ library(fontawesome)
 ]
 
 ---
+
+# What exactly is Sentinel 6?
+
+.center[.pull-left[
+```{r, echo=FALSE, out.width='100%'}
+knitr::include_graphics('images/Sentinel-6-general.jpeg')
+```
+.small[
+[Source and additional information: ESA Sentinel website](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-6)
+]
+]]
+
+.pull-right[
+**Key Facts**
+- Sentinel 6 part of the Coperinus Programme with the aim of providing in-depth data regarding sea-surface height measurements
+]
+---
