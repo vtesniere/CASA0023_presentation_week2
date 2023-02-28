@@ -2,3 +2,14 @@
   font-size: 1.5em;
   color: white;
 }
+
+.center2 {
+  margin: 0;
+  position: absolute;
+  top: 27%;
+  left: 17%;
+  transform: translate(0%, 0%);
+  font-weight: bold;
+  font-size: 2;
+  line-height: 2.5em;
+}
