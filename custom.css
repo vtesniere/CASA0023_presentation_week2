@@ -19,3 +19,24 @@
   line-height: 100%;
 
 }
+
+.milieu {
+  top: 25%;
+  margin: 0;
+  position: absolute;
+}
+
+.milieu2 {
+  top: 30%;
+  margin: 0;
+  right: 2%;
+  position: absolute;
+}
+
+.low {
+  top: 75%;
+  right: 45%;
+  left: 5%;
+  margin: 0;
+  position: absolute;
+}
